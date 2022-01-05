@@ -1,0 +1,1 @@
+(drive truck-0 city-loc-2 city-loc-1)(pick-up truck-0 city-loc-1 package-0)(drive truck-0 city-loc-1 city-loc-0)(drop truck-0 city-loc-0 package-0)
